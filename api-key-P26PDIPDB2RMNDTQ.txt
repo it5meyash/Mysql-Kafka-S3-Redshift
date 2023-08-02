@@ -1,0 +1,10 @@
+=== Confluent Cloud API key: lkc-yopxnk ===
+
+API key:
+P26PDIPDB2RMNDTQ
+
+API secret:
+7y0gPEH6FQlmQCZt9yNMnfhir3M/9Zjtccz7n0Zy53rdfCSpEDV0L0eh29BHCm4I
+
+Bootstrap server:
+pkc-6ojv2.us-west4.gcp.confluent.cloud:9092
